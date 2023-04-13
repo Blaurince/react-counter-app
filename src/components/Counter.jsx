@@ -2,7 +2,7 @@ import { useState } from "react";
 
 export default function Counter () {
   
-   const [number, setNumber] = useState("Zero")
+   const [number, setNumber] = useState(0)
 
    return (
      <section> 

@@ -38,12 +38,14 @@
 }
 
 button {
-  padding: 200px;
+  padding: 20px;
   font-size: 20px;
+  color: blue;
+  background-color: pink;
 }
 
 section h2 {
-  font-size: 70px;
+  font-size: 150px;
   color: pink; 
   background: #121FCF;
 background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
