@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  padding: 200px;
+  font-size: 20px;
+}
+
+section h2 {
+  font-size: 70px;
+  color: pink; 
+  background: #121FCF;
+background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
